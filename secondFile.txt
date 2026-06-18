@@ -1,6 +1,8 @@
 Line 1 different
-Line 2 different
-Line 3 
+Line 2 defferent
+Line 1 chan
+Line 2 chan
+Line 3
 Line 4
 Line 5
 Line 6
